@@ -1,16 +1,23 @@
-## Hi there 👋
+# Dinesh Kumar Sudha
 
-<!--
-**JontySudha/JontySudha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### **DevOps Engineer Intern | Computer Science Practitioner**
+Dedicated to building robust infrastructure and streamlining development workflows through automation. Currently focusing on system optimization and advanced scripting within the Linux ecosystem.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Technical Proficiencies
+* **Environment:** Ubuntu Linux, Shell (Bash/Zsh)
+* **Automation & Scripting:** Infrastructure as Code, Advanced Shell Automation
+* **Version Control:** Git, GitHub, GitLab
+* **Architecture:** Decentralized Applications (Solidity, Hardhat), React.js
+
+---
+
+### 📊 Engineering Metrics
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=transparent&hide_border=true&title_color=007acc&text_color=ffffff&icon_color=007acc)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=transparent&hide_border=true&title_color=007acc&text_color=ffffff)
+
+---
+
+### 🤝 Let's Connect
+[LinkedIn](www.linkedin.com/in/dinesh-sudha) 
