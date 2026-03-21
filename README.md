@@ -20,4 +20,4 @@ Dedicated to building robust infrastructure and streamlining development workflo
 ---
 
 ### 🤝 Let's Connect
-[LinkedIn](www.linkedin.com/in/dinesh-sudha) 
+[LinkedIn](https://www.linkedin.com/in/dinesh-sudha)
