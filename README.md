@@ -14,8 +14,8 @@ Dedicated to building robust infrastructure and streamlining development workflo
 ---
 
 ### 📊 Engineering Metrics
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=transparent&hide_border=true&title_color=007acc&text_color=ffffff&icon_color=007acc)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=transparent&hide_border=true&title_color=007acc&text_color=ffffff)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JontySudha&show_icons=true&theme=transparent&hide_border=true&title_color=007acc&text_color=ffffff&icon_color=007acc)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JontySudha&layout=compact&theme=transparent&hide_border=true&title_color=007acc&text_color=ffffff)
 
 ---
 
