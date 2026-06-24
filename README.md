@@ -1,4 +1,4 @@
-Hi ![] My name is Dinesh Sudha
+Hi ! My name is Dinesh Sudha
 =====================================================================================================================================
 
 Cloud Infrastructure & DevOps
